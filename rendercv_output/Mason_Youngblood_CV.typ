@@ -957,7 +957,7 @@ Fall 2015 --  Spring 2016
     #strong[Youngblood, M.], Ozaki, Y., and Savage, P.E. Cultural evolution and music. #emph[The Oxford Handbook of Cultural Evolution]. #link("https://doi.org/10.1093/oxfordhb/9780198869252.013.42")[10.1093/oxfordhb/9780198869252.013.42]
   ],
   right-content: [
-    
+    2023
   ],
 )
 
