@@ -979,6 +979,20 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [19.],
   middle-content: [
+    #strong[Youngblood, M.], Marie, A., and Morin, O. Status quo conservatism: A theory and a model. #emph[OSF]. #link("https://doi.org/10.31234/osf.io/ngb58")[10.31234/osf.io/ngb58]
+  ],
+  right-content: [
+    2025
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+// HAS INDEX NUMBER
+#three-col-entry(
+  left-column-width: 2em,
+  right-column-width: 4em,
+  left-content: [20.],
+  middle-content: [
     Savage, P.E. et al... #strong[Youngblood, M.]... Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report. #emph[OSF]. #link("https://doi.org/10.31234/osf.io/pv3m9")[10.31234/osf.io/pv3m9]
   ],
   right-content: [
@@ -991,7 +1005,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [20.],
+  left-content: [21.],
   middle-content: [
     #strong[Youngblood, M.] and Passmore, S. Simulation-based inference with deep learning shows speed climbers combine innovation and copying to improve performance. #emph[OSF]. #link("https://doi.org/10.31234/osf.io/n3rvk")[10.31234/osf.io/n3rvk]
   ],
@@ -1005,7 +1019,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [21.],
+  left-content: [22.],
   middle-content: [
     GomezdelaTorre Clavel, Macarena G, #strong[Youngblood, M.], and Lahti, D. Relationship between personality and cognitive traits in domestic rabbits \(#emph[Oryctolagus cuniculus]\). #emph[bioRxiv]. #link("https://doi.org/10.1101/2020.10.12.336024")[10.1101/2020.10.12.336024]
   ],
@@ -1390,6 +1404,21 @@ Sept 2021 – Oct 2021
 == Artist Residencies & Incubators
 
 
+#two-col-entry(
+  left-content: [
+    #strong[NEW INC]
+    #v(-design-text-leading)
+
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Member of Creative Science cohort, hosted by the New Museum])], column-gutter: 0cm)
+  ],
+  right-content: [
+    New York, NY
+
+Sept 2025 – Aug 2026
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[Reforesters Laboratory]

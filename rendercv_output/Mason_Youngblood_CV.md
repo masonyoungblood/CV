@@ -181,6 +181,11 @@
 ## PREPRINTS 
 - 
 
+## Status quo conservatism: A theory and a model ([10.31234/osf.io/ngb58](https://doi.org/10.31234/osf.io/ngb58))
+- 2025
+- 
+- OSF
+
 ## Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report ([10.31234/osf.io/pv3m9](https://doi.org/10.31234/osf.io/pv3m9))
 - 2024
 - 
@@ -426,6 +431,11 @@
 - Diverse Intelligences Summer Institute (St. Andrews, UK, July 2024): Deep listening for nonhuman perspective-taking
 
 # Artist Residencies & Incubators
+
+## NEW INC
+
+- Sept 2025 – Aug 2026
+- New York, NY
 
 ## Reforesters Laboratory
 
