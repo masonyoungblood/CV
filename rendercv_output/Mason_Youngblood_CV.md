@@ -184,17 +184,17 @@
 ## Status quo conservatism: A theory and a model ([10.31234/osf.io/ngb58](https://doi.org/10.31234/osf.io/ngb58))
 - 2025
 - 
-- OSF
+- SocArXiv
 
 ## Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report ([10.31234/osf.io/pv3m9](https://doi.org/10.31234/osf.io/pv3m9))
 - 2024
 - 
-- OSF
+- PsyArXiv
 
 ## Simulation-based inference with deep learning shows speed climbers combine innovation and copying to improve performance ([10.31234/osf.io/n3rvk](https://doi.org/10.31234/osf.io/n3rvk))
 - 2024
 - 
-- OSF
+- PsyArXiv
 
 ## Relationship between personality and cognitive traits in domestic rabbits (*Oryctolagus cuniculus*) ([10.1101/2020.10.12.336024](https://doi.org/10.1101/2020.10.12.336024))
 - 2020

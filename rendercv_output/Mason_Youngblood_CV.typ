@@ -979,7 +979,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [19.],
   middle-content: [
-    #strong[Youngblood, M.], Marie, A., and Morin, O. Status quo conservatism: A theory and a model. #emph[OSF]. #link("https://doi.org/10.31234/osf.io/ngb58")[10.31234/osf.io/ngb58]
+    #strong[Youngblood, M.], Marie, A., and Morin, O. Status quo conservatism: A theory and a model. #emph[SocArXiv]. #link("https://doi.org/10.31234/osf.io/ngb58")[10.31234/osf.io/ngb58]
   ],
   right-content: [
     2025
@@ -993,7 +993,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [20.],
   middle-content: [
-    Savage, P.E. et al... #strong[Youngblood, M.]... Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report. #emph[OSF]. #link("https://doi.org/10.31234/osf.io/pv3m9")[10.31234/osf.io/pv3m9]
+    Savage, P.E. et al... #strong[Youngblood, M.]... Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report. #emph[PsyArXiv]. #link("https://doi.org/10.31234/osf.io/pv3m9")[10.31234/osf.io/pv3m9]
   ],
   right-content: [
     2024
@@ -1007,7 +1007,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [21.],
   middle-content: [
-    #strong[Youngblood, M.] and Passmore, S. Simulation-based inference with deep learning shows speed climbers combine innovation and copying to improve performance. #emph[OSF]. #link("https://doi.org/10.31234/osf.io/n3rvk")[10.31234/osf.io/n3rvk]
+    #strong[Youngblood, M.] and Passmore, S. Simulation-based inference with deep learning shows speed climbers combine innovation and copying to improve performance. #emph[PsyArXiv]. #link("https://doi.org/10.31234/osf.io/n3rvk")[10.31234/osf.io/n3rvk]
   ],
   right-content: [
     2024

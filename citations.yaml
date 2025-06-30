@@ -186,7 +186,7 @@
   authors:
   - ''
   new: '**Youngblood, M.**, Marie, A., and Morin, O.'
-  journal: OSF
+  journal: SocArXiv
   doi: 10.31234/osf.io/ngb58
   url: https://osf.io/ngb58
   date: '2025'
@@ -195,16 +195,16 @@
   authors:
   - ''
   new: Savage, P.E. et al... **Youngblood, M.**...
-  journal: OSF
+  journal: PsyArXiv
   doi: 10.31234/osf.io/pv3m9
-  url: https://osf.io/pv3m9
+  url: https://doi.org/10.31234/osf.io/pv3m9
   date: '2024'
 - index: 21
   title: Simulation-based inference with deep learning shows speed climbers combine innovation and copying to improve performance
   authors:
   - ''
   new: '**Youngblood, M.** and Passmore, S.'
-  journal: OSF
+  journal: PsyArXiv
   doi: 10.31234/osf.io/n3rvk
   url: https://doi.org/10.31234/osf.io/n3rvk
   date: '2024'
