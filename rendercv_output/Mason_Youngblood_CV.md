@@ -52,12 +52,6 @@
 
 # Teaching
 
-## Stony Brook University
-
-- Fall 2025
-- Stony Brook, NY
-- AI & Creativity (COM 107): Fall 2025 (3 credits)
-
 ## Queens College, CUNY
 
 - Fall 2017 -- Spring 2021
@@ -79,6 +73,23 @@
 - General Experimental Psychology (PSYCH 25000): Spring 2016 (4 credits), Fall 2015 (4 credits)
 - Neuroscience (PSYCH 22400): Spring 2016 (3 credits)
 - Personality Psychology (PSYCH 22000): Fall 2015 (3 credits)
+
+## Guest Teaching (Lectures)
+
+- Stony Brook University, Philosophy of Technology (Stony Brook, NY, Dec 2023): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election
+- Keio University, Evolution and Music (Tokyo, JP, Dec 2023): Cultural evolutionary approaches to the study of contemporary music
+- Queens College, CUNY, Animal Behavior (Flushing, NY, May 2021): Cultural evolution
+- Queens College, CUNY, Principles of Evolutionary Biology (Flushing, NY, Nov 2020): Cultural evolution
+- Queens College, CUNY, Principles of Evolutionary Biology (Flushing, NY, Sept 2018): Genes, development, and environment
+- Queens College, CUNY, Principles of Evolutionary Biology (Flushing, NY, Nov 2017): Cultural evolution
+
+## Guest Teaching (Coding Workshops)
+
+- Genspace, Community Biology Lab (Brooklyn, NY, Jan 2023): Models of cultural transmission in human populations
+- University of Amsterdam, Social Learning Across the Lifespan and Generations (5th ESLR Workshop) (Amsterdam, NL, July 2022): Biased transmission and transformation in the cultural evolution of birdsong
+- École Normale Supérieure, École des Hautes Études en Sciences Sociales (Paris, FR, Apr 2022): Biased transmission and transformation in the cultural evolution of birdsong
+- Genspace, Community Biology Lab (Brooklyn, NY, Mar 2022): Models of cultural transmission in human populations
+- Genspace, Community Biology Lab (Brooklyn, NY, May 2021): Models of cultural transmission in human populations
 
 # Publications
 
@@ -255,23 +266,6 @@
 - Applications in Cultural Evolution Conference (Tartu, EE, June 2018): The cultural transmission of sampling traditions in a network of musical collaborators
 - Applications in Cultural Evolution Conference (Tartu, EE, June 2018): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution
 - Cultural Evolution Society Conference (Jena, DE, Sept 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution
-
-## Workshops
-
-- Genspace, Community Biology Lab (Brooklyn, NY, Jan 2023): Models of cultural transmission in human populations
-- University of Amsterdam, Social Learning Across the Lifespan and Generations (5th ESLR Workshop) (Amsterdam, NL, July 2022): Biased transmission and transformation in the cultural evolution of birdsong
-- École Normale Supérieure, École des Hautes Études en Sciences Sociales (Paris, FR, Apr 2022): Biased transmission and transformation in the cultural evolution of birdsong
-- Genspace, Community Biology Lab (Brooklyn, NY, Mar 2022): Models of cultural transmission in human populations
-- Genspace, Community Biology Lab (Brooklyn, NY, May 2021): Models of cultural transmission in human populations
-
-## Guest Teaching
-
-- Stony Brook University, Philosophy of Technology (Stony Brook, NY, Dec 2023): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election
-- Keio University, Evolution and Music (Tokyo, JP, Dec 2023): Cultural evolutionary approaches to the study of contemporary music
-- Queens College, CUNY, Animal Behavior (Flushing, NY, May 2021): Cultural evolution
-- Queens College, CUNY, Principles of Evolutionary Biology (Flushing, NY, Nov 2020): Cultural evolution
-- Queens College, CUNY, Principles of Evolutionary Biology (Flushing, NY, Sept 2018): Genes, development, and environment
-- Queens College, CUNY, Principles of Evolutionary Biology (Flushing, NY, Nov 2017): Cultural evolution
 
 ## Conference Posters
 

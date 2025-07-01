@@ -618,23 +618,6 @@ May 2015
 
 #two-col-entry(
   left-content: [
-    #strong[Stony Brook University]
-    #v(-design-text-leading)
-
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Adjunct Professor])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([AI & Creativity \(COM 107\): Fall 2025 \(3 credits\)],)
-  ],
-  right-content: [
-    Stony Brook, NY
-
-Fall 2025
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
     #strong[Queens College, CUNY]
     #v(-design-text-leading)
 
@@ -680,6 +663,28 @@ Fall 2016 -- Spring 2017
     New York, NY
 
 Fall 2015 --  Spring 2016
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Guest Teaching \(Lectures\)]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Stony Brook University, Philosophy of Technology \(Stony Brook, NY, Dec 2023\): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election],[Keio University, Evolution and Music \(Tokyo, JP, Dec 2023\): Cultural evolutionary approaches to the study of contemporary music],[Queens College, CUNY, Animal Behavior \(Flushing, NY, May 2021\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2020\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Sept 2018\): Genes, development, and environment],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2017\): Cultural evolution],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Guest Teaching \(Coding Workshops\)]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Genspace, Community Biology Lab \(Brooklyn, NY, Jan 2023\): Models of cultural transmission in human populations],[University of Amsterdam, Social Learning Across the Lifespan and Generations \(5th ESLR Workshop\) \(Amsterdam, NL, July 2022\): Biased transmission and transformation in the cultural evolution of birdsong],[École Normale Supérieure, École des Hautes Études en Sciences Sociales \(Paris, FR, Apr 2022\): Biased transmission and transformation in the cultural evolution of birdsong],[Genspace, Community Biology Lab \(Brooklyn, NY, Mar 2022\): Models of cultural transmission in human populations],[Genspace, Community Biology Lab \(Brooklyn, NY, May 2021\): Models of cultural transmission in human populations],)
   ],
 )
 
@@ -1058,28 +1063,6 @@ Fall 2015 --  Spring 2016
 
 #one-col-entry(
   content: [
-    #strong[Workshops]
-
-    #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Genspace, Community Biology Lab \(Brooklyn, NY, Jan 2023\): Models of cultural transmission in human populations],[University of Amsterdam, Social Learning Across the Lifespan and Generations \(5th ESLR Workshop\) \(Amsterdam, NL, July 2022\): Biased transmission and transformation in the cultural evolution of birdsong],[École Normale Supérieure, École des Hautes Études en Sciences Sociales \(Paris, FR, Apr 2022\): Biased transmission and transformation in the cultural evolution of birdsong],[Genspace, Community Biology Lab \(Brooklyn, NY, Mar 2022\): Models of cultural transmission in human populations],[Genspace, Community Biology Lab \(Brooklyn, NY, May 2021\): Models of cultural transmission in human populations],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
-    #strong[Guest Teaching]
-
-    #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Stony Brook University, Philosophy of Technology \(Stony Brook, NY, Dec 2023\): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election],[Keio University, Evolution and Music \(Tokyo, JP, Dec 2023\): Cultural evolutionary approaches to the study of contemporary music],[Queens College, CUNY, Animal Behavior \(Flushing, NY, May 2021\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2020\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Sept 2018\): Genes, development, and environment],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2017\): Cultural evolution],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
     #strong[Conference Posters]
 
     #v(-design-text-leading)
@@ -1406,7 +1389,7 @@ Sept 2021 – Oct 2021
 
 #two-col-entry(
   left-content: [
-    #strong[NEW INC]
+    #strong[ INC]
     #v(-design-text-leading)
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Member of Creative Science cohort, hosted by the New Museum])], column-gutter: 0cm)
