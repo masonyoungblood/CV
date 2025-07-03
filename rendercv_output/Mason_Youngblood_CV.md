@@ -426,7 +426,7 @@
 
 # Artist Residencies & Incubators
 
-## NEW INC
+## ṆEW INC
 
 - Sept 2025 – Aug 2026
 - New York, NY

@@ -643,7 +643,7 @@ cv:
           - 'Hex House, Community Art Space (Brooklyn, NY, Dec 2024): Deep listening for nonhuman perspective-taking'
           - 'Diverse Intelligences Summer Institute (St. Andrews, UK, July 2024): Deep listening for nonhuman perspective-taking'
     artist_residencies_&_incubators:
-      - name: "NEW INC"
+      - name: "ṆEW INC" #special character of N, because NEW appears to be a macro of some sort
         date: 
         start_date: 2025-09
         end_date: 2026-08

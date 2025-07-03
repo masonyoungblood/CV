@@ -1389,7 +1389,7 @@ Sept 2021 – Oct 2021
 
 #two-col-entry(
   left-content: [
-    #strong[ INC]
+    #strong[ṆEW INC]
     #v(-design-text-leading)
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Member of Creative Science cohort, hosted by the New Museum])], column-gutter: 0cm)
