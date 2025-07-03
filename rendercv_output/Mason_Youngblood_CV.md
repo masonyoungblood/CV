@@ -357,7 +357,7 @@
 
 ## Society Leadership
 
-- The Association of Early-Career Social Learning Researchers (ESLR): Web Secretary and Committee Member: Nov 2021 -- present
+- The Association of Early-Career Social Learning Researchers (ESLR): Web Secretary and Committee Member: Nov 2021 -- July 2025
 - Animal Behavior Society: Twitter Management: Mar 2019 -- Aug 2020
 
 ## Event Organizing

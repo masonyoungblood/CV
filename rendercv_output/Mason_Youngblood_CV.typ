@@ -1241,7 +1241,7 @@ Aug 2017
     #strong[Society Leadership]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([The Association of Early-Career Social Learning Researchers \(ESLR\): Web Secretary and Committee Member: Nov 2021 -- present],[Animal Behavior Society: Twitter Management: Mar 2019 -- Aug 2020],)
+    #v(design-highlights-top-margin);#highlights([The Association of Early-Career Social Learning Researchers \(ESLR\): Web Secretary and Committee Member: Nov 2021 -- July 2025],[Animal Behavior Society: Twitter Management: Mar 2019 -- Aug 2020],)
   ],
 )
 
