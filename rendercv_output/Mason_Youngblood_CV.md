@@ -192,6 +192,11 @@
 ## PREPRINTS 
 - 
 
+## Vocal efficiency in crows ([10.1101/2025.07.03.663010](https://doi.org/10.1101/2025.07.03.663010))
+- 2025
+- 
+- bioRxiv
+
 ## Status quo conservatism: A theory and a model ([10.31234/osf.io/ngb58](https://doi.org/10.31234/osf.io/ngb58))
 - 2025
 - 
