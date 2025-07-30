@@ -317,6 +317,15 @@ cv:
         new: ''
         index: ''
       - index: 19
+        title: Zebra finches transform random songs to exhibit linguistic laws
+        authors:
+        - ''
+        new: '**Youngblood, M.**'
+        journal: PsyArXiv
+        doi: 10.31234/osf.io/m6z23_v1
+        url: https://doi.org/10.31234/osf.io/m6z23_v1
+        date: '2025'
+      - index: 20
         title: Vocal efficiency in crows
         authors:
         - ''
@@ -325,7 +334,7 @@ cv:
         doi: 10.1101/2025.07.03.663010
         url: https://doi.org/10.1101/2025.07.03.663010
         date: '2025'
-      - index: 20
+      - index: 21
         title: 'Status quo conservatism: A theory and a model'
         authors:
         - ''
@@ -334,7 +343,7 @@ cv:
         doi: 10.31234/osf.io/ngb58
         url: https://osf.io/ngb58
         date: '2025'
-      - index: 21
+      - index: 22
         title: Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report
         authors:
         - ''
@@ -343,7 +352,7 @@ cv:
         doi: 10.31234/osf.io/pv3m9
         url: https://doi.org/10.31234/osf.io/pv3m9
         date: '2024'
-      - index: 22
+      - index: 23
         title: Simulation-based inference with deep learning shows speed climbers combine innovation and copying to improve performance
         authors:
         - ''
@@ -352,7 +361,7 @@ cv:
         doi: 10.31234/osf.io/n3rvk
         url: https://doi.org/10.31234/osf.io/n3rvk
         date: '2024'
-      - index: 23
+      - index: 24
         title: Relationship between personality and cognitive traits in domestic rabbits (*Oryctolagus cuniculus*)
         authors:
         - ''
@@ -824,6 +833,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-06-25'
+  date: '2025-07-30'
   render_command:
   bold_keywords: []

@@ -3,7 +3,7 @@
 
 #let name = "Mason Youngblood"
 #let locale-catalog-page-numbering-style = context { "Mason Youngblood - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in June 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in July 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-colors-text = rgb(0, 0, 0)
@@ -984,7 +984,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [19.],
   middle-content: [
-    Wascher, C. and #strong[Youngblood, M.] Vocal efficiency in crows. #emph[bioRxiv]. #link("https://doi.org/10.1101/2025.07.03.663010")[10.1101/2025.07.03.663010]
+    #strong[Youngblood, M.] Zebra finches transform random songs to exhibit linguistic laws. #emph[PsyArXiv]. #link("https://doi.org/10.31234/osf.io/m6z23_v1")[10.31234/osf.io/m6z23_v1]
   ],
   right-content: [
     2025
@@ -998,7 +998,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [20.],
   middle-content: [
-    #strong[Youngblood, M.], Marie, A., and Morin, O. Status quo conservatism: A theory and a model. #emph[SocArXiv]. #link("https://doi.org/10.31234/osf.io/ngb58")[10.31234/osf.io/ngb58]
+    Wascher, C. and #strong[Youngblood, M.] Vocal efficiency in crows. #emph[bioRxiv]. #link("https://doi.org/10.1101/2025.07.03.663010")[10.1101/2025.07.03.663010]
   ],
   right-content: [
     2025
@@ -1012,6 +1012,20 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [21.],
   middle-content: [
+    #strong[Youngblood, M.], Marie, A., and Morin, O. Status quo conservatism: A theory and a model. #emph[SocArXiv]. #link("https://doi.org/10.31234/osf.io/ngb58")[10.31234/osf.io/ngb58]
+  ],
+  right-content: [
+    2025
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+// HAS INDEX NUMBER
+#three-col-entry(
+  left-column-width: 2em,
+  right-column-width: 4em,
+  left-content: [22.],
+  middle-content: [
     Savage, P.E. et al... #strong[Youngblood, M.]... Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report. #emph[PsyArXiv]. #link("https://doi.org/10.31234/osf.io/pv3m9")[10.31234/osf.io/pv3m9]
   ],
   right-content: [
@@ -1024,7 +1038,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [22.],
+  left-content: [23.],
   middle-content: [
     #strong[Youngblood, M.] and Passmore, S. Simulation-based inference with deep learning shows speed climbers combine innovation and copying to improve performance. #emph[PsyArXiv]. #link("https://doi.org/10.31234/osf.io/n3rvk")[10.31234/osf.io/n3rvk]
   ],
@@ -1038,7 +1052,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [23.],
+  left-content: [24.],
   middle-content: [
     GomezdelaTorre Clavel, Macarena G, #strong[Youngblood, M.], and Lahti, D. Relationship between personality and cognitive traits in domestic rabbits \(#emph[Oryctolagus cuniculus]\). #emph[bioRxiv]. #link("https://doi.org/10.1101/2020.10.12.336024")[10.1101/2020.10.12.336024]
   ],

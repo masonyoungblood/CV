@@ -192,6 +192,11 @@
 ## PREPRINTS 
 - 
 
+## Zebra finches transform random songs to exhibit linguistic laws ([10.31234/osf.io/m6z23_v1](https://doi.org/10.31234/osf.io/m6z23_v1))
+- 2025
+- 
+- PsyArXiv
+
 ## Vocal efficiency in crows ([10.1101/2025.07.03.663010](https://doi.org/10.1101/2025.07.03.663010))
 - 2025
 - 
