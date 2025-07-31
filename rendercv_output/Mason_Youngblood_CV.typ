@@ -710,7 +710,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [1.],
   middle-content: [
-    Whiten, A. and #strong[Youngblood, M.] Convergent evolution in whale and human vocal cultures. #emph[Science]. #link("https://doi.org/10.1126/science.adv2318")[10.1126/science.adv2318]
+    Wascher, C. and #strong[Youngblood, M.] Vocal efficiency in crows. #emph[Animal Cognition]. #link("https://doi.org/10.1007/s10071-025-01985-8")[10.1007/s10071-025-01985-8]
   ],
   right-content: [
     2025
@@ -724,7 +724,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [2.],
   middle-content: [
-    #strong[Youngblood, M.] Language-like efficiency in whale communication. #emph[Science Advances]. #link("https://doi.org/10.1126/sciadv.ads6014")[10.1126/sciadv.ads6014]
+    Whiten, A. and #strong[Youngblood, M.] Convergent evolution in whale and human vocal cultures. #emph[Science]. #link("https://doi.org/10.1126/science.adv2318")[10.1126/science.adv2318]
   ],
   right-content: [
     2025
@@ -738,7 +738,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [3.],
   middle-content: [
-    Pitocchelli, J., Albina, A., Bentley, R.A., Guerra, D., and #strong[Youngblood, M.] Temporal stability in songs across the breeding range of #emph[Geothlypis philadelphia] \(mourning warbler\) may be due to learning fidelity and transmission biases. #emph[Ornithology]. #link("https://doi.org/10.1093/ornithology/ukae046")[10.1093/ornithology/ukae046]
+    #strong[Youngblood, M.] Language-like efficiency in whale communication. #emph[Science Advances]. #link("https://doi.org/10.1126/sciadv.ads6014")[10.1126/sciadv.ads6014]
   ],
   right-content: [
     2025
@@ -752,10 +752,10 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [4.],
   middle-content: [
-    Kornreich, A., Partridge, D., #strong[Youngblood, M.], and Parkins, K. Rehabilitation outcomes of bird-building collision victims in the Northeastern United States. #emph[PLoS ONE]. #link("https://doi.org/10.1371/journal.pone.0306362")[10.1371/journal.pone.0306362]
+    Pitocchelli, J., Albina, A., Bentley, R.A., Guerra, D., and #strong[Youngblood, M.] Temporal stability in songs across the breeding range of #emph[Geothlypis philadelphia] \(mourning warbler\) may be due to learning fidelity and transmission biases. #emph[Ornithology]. #link("https://doi.org/10.1093/ornithology/ukae046")[10.1093/ornithology/ukae046]
   ],
   right-content: [
-    2024
+    2025
   ],
 )
 
@@ -766,7 +766,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [5.],
   middle-content: [
-    Sobchuk, O., #strong[Youngblood, M.], and Morin, O. First-mover advantage in music. #emph[EPJ Data Science]. #link("https://doi.org/10.1140/epjds/s13688-024-00476-z")[10.1140/epjds/s13688-024-00476-z]
+    Kornreich, A., Partridge, D., #strong[Youngblood, M.], and Parkins, K. Rehabilitation outcomes of bird-building collision victims in the Northeastern United States. #emph[PLoS ONE]. #link("https://doi.org/10.1371/journal.pone.0306362")[10.1371/journal.pone.0306362]
   ],
   right-content: [
     2024
@@ -780,7 +780,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [6.],
   middle-content: [
-    #strong[Youngblood, M.] Language-like efficiency and structure in house finch song. #emph[Proceedings of the Royal Society B]. #link("https://doi.org/10.1098/rspb.2024.0250")[10.1098/rspb.2024.0250]
+    Sobchuk, O., #strong[Youngblood, M.], and Morin, O. First-mover advantage in music. #emph[EPJ Data Science]. #link("https://doi.org/10.1140/epjds/s13688-024-00476-z")[10.1140/epjds/s13688-024-00476-z]
   ],
   right-content: [
     2024
@@ -794,10 +794,10 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [7.],
   middle-content: [
-    #strong[Youngblood, M.], Stubbersfield, J.M., Morin, O., Glassman, R., and Acerbi, A. Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election. #emph[Humanities and Social Sciences Communications]. #link("https://doi.org/10.1057/s41599-023-02106-x")[10.1057/s41599-023-02106-x]
+    #strong[Youngblood, M.] Language-like efficiency and structure in house finch song. #emph[Proceedings of the Royal Society B]. #link("https://doi.org/10.1098/rspb.2024.0250")[10.1098/rspb.2024.0250]
   ],
   right-content: [
-    2023
+    2024
   ],
 )
 
@@ -808,7 +808,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [8.],
   middle-content: [
-    #strong[Youngblood, M.], Miton, H., and Morin, O. Statistical signals of copying are robust to time-and space-averaging. #emph[Evolutionary Human Sciences]. #link("https://doi.org/10.1017/ehs.2023.5")[10.1017/ehs.2023.5]
+    #strong[Youngblood, M.], Stubbersfield, J.M., Morin, O., Glassman, R., and Acerbi, A. Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election. #emph[Humanities and Social Sciences Communications]. #link("https://doi.org/10.1057/s41599-023-02106-x")[10.1057/s41599-023-02106-x]
   ],
   right-content: [
     2023
@@ -822,7 +822,7 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [9.],
   middle-content: [
-    Benjamin, F.J. et al... and #strong[Youngblood, M.] All intelligence is collective intelligence. #emph[Journal of Multiscale Neuroscience]. #link("https://doi.org/10.56280/1564736810")[10.56280/1564736810]
+    #strong[Youngblood, M.], Miton, H., and Morin, O. Statistical signals of copying are robust to time-and space-averaging. #emph[Evolutionary Human Sciences]. #link("https://doi.org/10.1017/ehs.2023.5")[10.1017/ehs.2023.5]
   ],
   right-content: [
     2023
@@ -836,6 +836,20 @@ Fall 2015 --  Spring 2016
   right-column-width: 4em,
   left-content: [10.],
   middle-content: [
+    Benjamin, F.J. et al... and #strong[Youngblood, M.] All intelligence is collective intelligence. #emph[Journal of Multiscale Neuroscience]. #link("https://doi.org/10.56280/1564736810")[10.56280/1564736810]
+  ],
+  right-content: [
+    2023
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+// HAS INDEX NUMBER
+#three-col-entry(
+  left-column-width: 2em,
+  right-column-width: 4em,
+  left-content: [11.],
+  middle-content: [
     #strong[Youngblood, M.] and Lahti, D.C. Content bias in the cultural evolution of house finch song. #emph[Animal Behaviour]. #link("https://doi.org/10.1016/j.anbehav.2021.12.012")[10.1016/j.anbehav.2021.12.012]
   ],
   right-content: [
@@ -848,7 +862,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [11.],
+  left-content: [12.],
   middle-content: [
     #strong[Youngblood, M.], Baraghith, K., and Savage, P.E. Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection \(1975--1999\). #emph[Evolution & Human Behavior]. #link("https://doi.org/10.1016/j.evolhumbehav.2021.06.002")[10.1016/j.evolhumbehav.2021.06.002]
   ],
@@ -862,7 +876,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [12.],
+  left-content: [13.],
   middle-content: [
     Kornreich, A., #strong[Youngblood, M.], Mundinger, P.C., and Lahti, D.C. Female song can be as long and complex as male song in wild house finches \(#emph[Haemorhous mexicanus]\). #emph[The Wilson Journal of Ornithology]. #link("https://doi.org/10.1676/19-00126")[10.1676/19-00126]
   ],
@@ -876,7 +890,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [13.],
+  left-content: [14.],
   middle-content: [
     #strong[Youngblood, M.] Extremist ideology as a complex contagion: the spread of far-right radicalization in the United States between 2005 and 2017. #emph[Humanities & Social Sciences Communications]. #link("https://doi.org/10.1057/s41599-020-00546-3")[10.1057/s41599-020-00546-3]
   ],
@@ -890,7 +904,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [14.],
+  left-content: [15.],
   middle-content: [
     #strong[Youngblood, M.] A Raspberry Pi-based, RFID-equipped birdfeeder for the remote monitoring of wild bird populations. #emph[Ringing & Migration]. #link("https://doi.org/10.1080/03078698.2019.1759908")[10.1080/03078698.2019.1759908]
   ],
@@ -904,7 +918,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [15.],
+  left-content: [16.],
   middle-content: [
     #strong[Youngblood, M.] Conformity bias in the cultural transmission of music sampling traditions. #emph[Royal Society Open Science]. #link("https://doi.org/10.1098/rsos.191149")[10.1098/rsos.191149]
   ],
@@ -918,7 +932,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [16.],
+  left-content: [17.],
   middle-content: [
     #strong[Youngblood, M.] Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age. #emph[PLoS ONE]. #link("https://doi.org/10.1371/journal.pone.0211860")[10.1371/journal.pone.0211860]
   ],
@@ -932,7 +946,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [17.],
+  left-content: [18.],
   middle-content: [
     #strong[Youngblood, M.] and Lahti, D. A bibliometric analysis of the interdisciplinary field of cultural evolution. #emph[Palgrave Communications]. #link("https://doi.org/10.1057/s41599-018-0175-8")[10.1057/s41599-018-0175-8]
   ],
@@ -957,7 +971,7 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [18.],
+  left-content: [19.],
   middle-content: [
     #strong[Youngblood, M.], Ozaki, Y., and Savage, P.E. Cultural evolution and music. #emph[The Oxford Handbook of Cultural Evolution]. #link("https://doi.org/10.1093/oxfordhb/9780198869252.013.42")[10.1093/oxfordhb/9780198869252.013.42]
   ],
@@ -982,23 +996,9 @@ Fall 2015 --  Spring 2016
 #three-col-entry(
   left-column-width: 2em,
   right-column-width: 4em,
-  left-content: [19.],
-  middle-content: [
-    #strong[Youngblood, M.] Zebra finches transform random songs to exhibit linguistic laws. #emph[PsyArXiv]. #link("https://doi.org/10.31234/osf.io/m6z23_v1")[10.31234/osf.io/m6z23_v1]
-  ],
-  right-content: [
-    2025
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-// HAS INDEX NUMBER
-#three-col-entry(
-  left-column-width: 2em,
-  right-column-width: 4em,
   left-content: [20.],
   middle-content: [
-    Wascher, C. and #strong[Youngblood, M.] Vocal efficiency in crows. #emph[bioRxiv]. #link("https://doi.org/10.1101/2025.07.03.663010")[10.1101/2025.07.03.663010]
+    #strong[Youngblood, M.] Zebra finches transform random songs to exhibit linguistic laws. #emph[PsyArXiv]. #link("https://doi.org/10.31234/osf.io/m6z23_v1")[10.31234/osf.io/m6z23_v1]
   ],
   right-content: [
     2025

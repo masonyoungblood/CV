@@ -96,6 +96,11 @@
 ## JOURNAL ARTICLES 
 - 
 
+## Vocal efficiency in crows ([10.1007/s10071-025-01985-8](https://doi.org/10.1007/s10071-025-01985-8))
+- 2025
+- 
+- Animal Cognition
+
 ## Convergent evolution in whale and human vocal cultures ([10.1126/science.adv2318](https://doi.org/10.1126/science.adv2318))
 - 2025
 - 
@@ -196,11 +201,6 @@
 - 2025
 - 
 - PsyArXiv
-
-## Vocal efficiency in crows ([10.1101/2025.07.03.663010](https://doi.org/10.1101/2025.07.03.663010))
-- 2025
-- 
-- bioRxiv
 
 ## Status quo conservatism: A theory and a model ([10.31234/osf.io/ngb58](https://doi.org/10.31234/osf.io/ngb58))
 - 2025

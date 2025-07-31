@@ -141,6 +141,15 @@ cv:
         new: ''
         index: ''
       - index: 1
+        title: Vocal efficiency in crows
+        authors:
+        - ''
+        new: Wascher, C. and **Youngblood, M.**
+        journal: Animal Cognition
+        doi: 10.1007/s10071-025-01985-8
+        url: https://doi.org/10.1007/s10071-025-01985-8
+        date: '2025'
+      - index: 2
         title: Convergent evolution in whale and human vocal cultures
         authors:
         - ''
@@ -149,7 +158,7 @@ cv:
         doi: 10.1126/science.adv2318
         url: https://doi.org/10.1126/science.adv2318
         date: '2025'
-      - index: 2
+      - index: 3
         title: Language-like efficiency in whale communication
         authors:
         - ''
@@ -158,7 +167,7 @@ cv:
         doi: 10.1126/sciadv.ads6014
         url: https://doi.org/10.1126/sciadv.ads6014
         date: '2025'
-      - index: 3
+      - index: 4
         title: Temporal stability in songs across the breeding range of *Geothlypis philadelphia* (mourning warbler) may be due to learning fidelity and transmission biases
         authors:
         - ''
@@ -167,7 +176,7 @@ cv:
         doi: 10.1093/ornithology/ukae046
         url: https://doi.org/10.1093/ornithology/ukae046
         date: '2025'
-      - index: 4
+      - index: 5
         title: Rehabilitation outcomes of bird-building collision victims in the Northeastern United States
         authors:
         - ''
@@ -176,7 +185,7 @@ cv:
         doi: 10.1371/journal.pone.0306362
         url: https://doi.org/10.1371/journal.pone.0306362
         date: '2024'
-      - index: 5
+      - index: 6
         title: First-mover advantage in music
         authors:
         - ''
@@ -185,7 +194,7 @@ cv:
         doi: 10.1140/epjds/s13688-024-00476-z
         url: https://doi.org/10.1140/epjds/s13688-024-00476-z
         date: '2024'
-      - index: 6
+      - index: 7
         title: Language-like efficiency and structure in house finch song
         authors:
         - ''
@@ -194,7 +203,7 @@ cv:
         doi: 10.1098/rspb.2024.0250
         url: https://doi.org/10.1098/rspb.2024.0250
         date: '2024'
-      - index: 7
+      - index: 8
         title: Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election
         authors:
         - ''
@@ -203,7 +212,7 @@ cv:
         doi: 10.1057/s41599-023-02106-x
         url: https://doi.org/10.1057/s41599-023-02106-x
         date: '2023'
-      - index: 8
+      - index: 9
         title: Statistical signals of copying are robust to time-and space-averaging
         authors:
         - ''
@@ -212,7 +221,7 @@ cv:
         doi: 10.1017/ehs.2023.5
         url: https://doi.org/10.1017/ehs.2023.5
         date: '2023'
-      - index: 9
+      - index: 10
         title: All intelligence is collective intelligence
         authors:
         - ''
@@ -221,7 +230,7 @@ cv:
         doi: 10.56280/1564736810
         url: https://doi.org/10.56280/1564736810
         date: '2023'
-      - index: 10
+      - index: 11
         title: Content bias in the cultural evolution of house finch song
         authors:
         - ''
@@ -230,7 +239,7 @@ cv:
         doi: 10.1016/j.anbehav.2021.12.012
         url: https://doi.org/10.1016/j.anbehav.2021.12.012
         date: '2022'
-      - index: 11
+      - index: 12
         title: Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection (1975--1999)
         authors:
         - ''
@@ -239,7 +248,7 @@ cv:
         doi: 10.1016/j.evolhumbehav.2021.06.002
         url: https://doi.org/10.1016/j.evolhumbehav.2021.06.002
         date: '2021'
-      - index: 12
+      - index: 13
         title: Female song can be as long and complex as male song in wild house finches (*Haemorhous mexicanus*)
         authors:
         - ''
@@ -248,7 +257,7 @@ cv:
         doi: 10.1676/19-00126
         url: https://doi.org/10.1676/19-00126
         date: '2020'
-      - index: 13
+      - index: 14
         title: 'Extremist ideology as a complex contagion: the spread of far-right radicalization in the United States between 2005 and 2017'
         authors:
         - ''
@@ -257,7 +266,7 @@ cv:
         doi: 10.1057/s41599-020-00546-3
         url: https://doi.org/10.1057/s41599-020-00546-3
         date: '2020'
-      - index: 14
+      - index: 15
         title: A Raspberry Pi-based, RFID-equipped birdfeeder for the remote monitoring of wild bird populations
         authors:
         - ''
@@ -266,7 +275,7 @@ cv:
         doi: 10.1080/03078698.2019.1759908
         url: https://doi.org/10.1080/03078698.2019.1759908
         date: '2019'
-      - index: 15
+      - index: 16
         title: Conformity bias in the cultural transmission of music sampling traditions
         authors:
         - ''
@@ -275,7 +284,7 @@ cv:
         doi: 10.1098/rsos.191149
         url: https://doi.org/10.1098/rsos.191149
         date: '2019'
-      - index: 16
+      - index: 17
         title: Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age
         authors:
         - ''
@@ -284,7 +293,7 @@ cv:
         doi: 10.1371/journal.pone.0211860
         url: https://doi.org/10.1371/journal.pone.0211860
         date: '2019'
-      - index: 17
+      - index: 18
         title: A bibliometric analysis of the interdisciplinary field of cultural evolution
         authors:
         - ''
@@ -300,7 +309,7 @@ cv:
         - ''
         new: ''
         index: ''
-      - index: 18
+      - index: 19
         title: Cultural evolution and music
         authors:
         - ''
@@ -316,7 +325,7 @@ cv:
         - ''
         new: ''
         index: ''
-      - index: 19
+      - index: 20
         title: Zebra finches transform random songs to exhibit linguistic laws
         authors:
         - ''
@@ -324,15 +333,6 @@ cv:
         journal: PsyArXiv
         doi: 10.31234/osf.io/m6z23_v1
         url: https://doi.org/10.31234/osf.io/m6z23_v1
-        date: '2025'
-      - index: 20
-        title: Vocal efficiency in crows
-        authors:
-        - ''
-        new: Wascher, C. and **Youngblood, M.**
-        journal: bioRxiv
-        doi: 10.1101/2025.07.03.663010
-        url: https://doi.org/10.1101/2025.07.03.663010
         date: '2025'
       - index: 21
         title: 'Status quo conservatism: A theory and a model'
