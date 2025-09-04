@@ -226,6 +226,7 @@
 
 ## Invited Talks
 
+- University of Tennessee, Center for the Dynamics of Social Complexity (Knoxville, TN, September 2025): Dynamics of collective creativity in AI art competitions
 - Santa Fe Institute, Building a Science of Cultural Evolution for the 21st Century (Santa Fe, NM, May 2025): Social learning biases---from theory to inference
 - Stony Brook University, Institute for Advanced Computational Science, Collective Creativity Workshop (Stony Brook, NY, Apr 2025): Creativity and innovation in cultural evolution
 - Graduate Center, CUNY, Cognitive and Comparative Psychology Colloquium (New York, NY, Feb 2025): Complexity and efficiency in animal communication
@@ -367,6 +368,7 @@
 
 ## Society Leadership
 
+- The Cultural Evolution Society (CES): Membership Secretary and Executive Committee Member: Sept 2025 -- present
 - The Association of Early-Career Social Learning Researchers (ESLR): Web Secretary and Committee Member: Nov 2021 -- July 2025
 - Animal Behavior Society: Twitter Management: Mar 2019 -- Aug 2020
 
@@ -380,7 +382,7 @@
 
 ## Peer Reviewing
 
-- Journals: *Nature Communications, Proceedings of the Royal Society B, Philosophical Transactions of the Royal Society B, Poetics, Royal Society Interface, PLOS Computational Biology, Frontiers in Psychology, Cognitive Science, Royal Society Open Science, Animal Behaviour, Ecology and Evolution, Methods in Ecology and Evolution, Journal of Animal Ecology, Journal of Language Evolution, PLOS ONE, Ornithology, npj Complexity, Animal Cognition, Journal of Complex Networks, Biology and Philosophy, Humanities and Social Sciences Communications, Palgrave Communications, International Journal of Infectious Diseases, Qeios*
+- Journals: *Nature Communications, Science Advances, Proceedings of the Royal Society B, Philosophical Transactions of the Royal Society B, Poetics, Royal Society Interface, PLOS Computational Biology, Frontiers in Psychology, Cognitive Science, Royal Society Open Science, PNAS Nexus, Animal Behaviour, Ecology and Evolution, Methods in Ecology and Evolution, Journal of Animal Ecology, Journal of Language Evolution, PLOS ONE, Ornithology, npj Complexity, Open Mind, Topics in Cognitive Science, Animal Cognition, Journal of Complex Networks, Biology and Philosophy, Humanities and Social Sciences Communications, Palgrave Communications, International Journal of Infectious Diseases, Qeios*
 - Themed issue proposals: *Philosophical Transactions of the Royal Society B*
 - Grants: Cultural Evolution Society Transformation Fund (John Templeton Foundation)
 - Conferences: Computational Humanities Research Conference (2023)
