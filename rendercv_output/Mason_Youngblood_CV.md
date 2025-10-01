@@ -76,6 +76,7 @@
 
 ## Guest Teaching (Lectures)
 
+- Stony Brook University, AI and Creativity (Stony Brook, NY, Sept 2025): AI tools for creatives in music and audio
 - Stony Brook University, Philosophy of Technology (Stony Brook, NY, Dec 2023): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election
 - Keio University, Evolution and Music (Tokyo, JP, Dec 2023): Cultural evolutionary approaches to the study of contemporary music
 - Queens College, CUNY, Animal Behavior (Flushing, NY, May 2021): Cultural evolution
@@ -224,7 +225,7 @@
 
 # Presentations
 
-## Invited Talks
+## Invited Talks (since 2023)
 
 - University of Tennessee, Center for the Dynamics of Social Complexity (Knoxville, TN, September 2025): Dynamics of collective creativity in AI art competitions
 - Santa Fe Institute, Building a Science of Cultural Evolution for the 21st Century (Santa Fe, NM, May 2025): Social learning biases---from theory to inference
@@ -278,14 +279,6 @@
 - Applications in Cultural Evolution Conference (Tartu, EE, June 2018): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution
 - Cultural Evolution Society Conference (Jena, DE, Sept 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution
 
-## Conference Posters
-
-- European Human Behaviour and Evolution Association (Virtual Conference, Apr 2022): Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election
-- Animal Behavior Society (Twitter Conference, Jan 2021): Transmission bias in the cultural evolution of house finch song
-- Psychology Research Day at the Graduate Center (New York, NY, Mar 2019): Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age
-- SNAK Acoustic Communication Symposium (Faaborg, DE, Aug 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution
-- Queens College Biology Symposium (Flushing, NY, Jan 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution
-
 # Awards, Grants, & Fellowships
 
 ## 
@@ -313,6 +306,10 @@
 - Summer Research Training, Methods in the Neuroscience of Drug Abuse, University of Texas at El Paso (2013): The role of dopamine D2 receptor in brain development and ethanol-induced behavioral disinhibition
 
 # Advising
+
+## PhD Students
+
+- Alina Shabaeva (2025-2026): PhD in Linguistics, Stony Brook University --- Creativity and word order in online experiments
 
 ## Masters Students
 
@@ -424,11 +421,18 @@
 - Design firm specializing in sonic branding: [https://wearelisten.com](https://wearelisten.com)
 - My focus: reviewing the scientific literature of the psychology of sound and music, to directly inform the sonic design of a luxury electric vehicle for Ford Motor Company
 
+# Programming Skills
+
+- Languages: R, Python, C++, Bash, Markdown
+- Machine Learning & AI: PyTorch, TensorFlow, Stan
+- High-Performance & Cloud Computing: Slurm, AWS, Google Cloud Platform
+- Web Technologies: HTML/CSS, WordPress, GitHub, APIs
 # Artistic Output
 
 ## Installations
 
-- Alaka’i 1777 (2025): an immersive sound installation that reconstructs the lost song culture of the Kaua’i ’ō’ō, an extinct Hawaiian bird, by weaving together archival recordings with interacting artificial agents. Debuted at the Reforesters Laboratory in Brooklyn in June 2025.
+- Reforesters Laboratory, Spatial Audio Venue (Brooklyn, NY, June 2025): Alaka’i 1777
+- TechnoMirage at Index Space, Community Art Space (Manhattan, NY, Sept 2025): Alaka’i 1777
 
 ## Workshops
 
@@ -453,9 +457,3 @@
 - July 2024 – Aug 2024
 - St. Andrews, UK
 
-# Programming Skills
-
-- Languages: R, Python, C++, Bash, Markdown
-- Machine Learning & AI: PyTorch, TensorFlow, Stan
-- High-Performance & Cloud Computing: Slurm, AWS, Google Cloud Platform
-- Web Technologies: HTML/CSS, WordPress, GitHub, APIs

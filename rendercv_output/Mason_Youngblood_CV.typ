@@ -673,7 +673,7 @@ Fall 2015 --  Spring 2016
     #strong[Guest Teaching \(Lectures\)]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Stony Brook University, Philosophy of Technology \(Stony Brook, NY, Dec 2023\): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election],[Keio University, Evolution and Music \(Tokyo, JP, Dec 2023\): Cultural evolutionary approaches to the study of contemporary music],[Queens College, CUNY, Animal Behavior \(Flushing, NY, May 2021\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2020\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Sept 2018\): Genes, development, and environment],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2017\): Cultural evolution],)
+    #v(design-highlights-top-margin);#highlights([Stony Brook University, AI and Creativity \(Stony Brook, NY, Sept 2025\): AI tools for creatives in music and audio],[Stony Brook University, Philosophy of Technology \(Stony Brook, NY, Dec 2023\): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election],[Keio University, Evolution and Music \(Tokyo, JP, Dec 2023\): Cultural evolutionary approaches to the study of contemporary music],[Queens College, CUNY, Animal Behavior \(Flushing, NY, May 2021\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2020\): Cultural evolution],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Sept 2018\): Genes, development, and environment],[Queens College, CUNY, Principles of Evolutionary Biology \(Flushing, NY, Nov 2017\): Cultural evolution],)
   ],
 )
 
@@ -1069,7 +1069,7 @@ Fall 2015 --  Spring 2016
 
 #one-col-entry(
   content: [
-    #strong[Invited Talks]
+    #strong[Invited Talks \(since 2023\)]
 
     #v(-design-text-leading)
     #v(design-highlights-top-margin);#highlights([University of Tennessee, Center for the Dynamics of Social Complexity \(Knoxville, TN, September 2025\): Dynamics of collective creativity in AI art competitions],[Santa Fe Institute, Building a Science of Cultural Evolution for the 21st Century \(Santa Fe, NM, May 2025\): Social learning biases---from theory to inference],[Stony Brook University, Institute for Advanced Computational Science, Collective Creativity Workshop \(Stony Brook, NY, Apr 2025\): Creativity and innovation in cultural evolution],[Graduate Center, CUNY, Cognitive and Comparative Psychology Colloquium \(New York, NY, Feb 2025\): Complexity and efficiency in animal communication],[University of Miami \(Coral Gables, FL, Feb 2025\): Lyrai: building digital twin for acoustic design],[Goldsmiths, University of London, Science of the Creative and Performing Arts Group \(London, UK, Sept 2024\): Complexity in birdsong---using science to illuminate its origins, and art to motivate its conservation],[University of Oxford, Edward Grey Institute of Field Ornithology \(Oxford, UK, Sept 2024\): Complexity in birdsong---using science to illuminate its origins, and art to motivate its conservation],[Diverse Intelligences Summer Institute, Storyteller Salon \(St. Andrews, UK, July 2024\): Synthesizing imagined songs of extinct species],[Max Planck Institute for Evolutionary Anthropology, Linguistics and Cognitive Science Meet Diversity Workshop \(Leipzig, DE, July 2024\): Language-like efficiency and structure in house finch song],[Institut Jean Nicod, Évolution & Cognition Sociale \(Paris, FR, Mar 2024\): Cultural conservatism: a theory and model],[Stony Brook University, Ecology and Evolution Colloquium \(Stony Brook, NY, Mar 2024\): Complexity and efficiency in birdsong],[Mercy University, Animal Behavior Seminar \(Bronx, NY, Feb 2024\): The evolution of complexity in birdsong],[Max Planck Institute for Evolutionary Anthropology, Cultural Evolution of the Arts Workshop \(Leipzig, DE, Nov 2023\): Towards a cultural phylogeny of English-language fiction],[University of Bristol, Technology, Cognition, and Democracy Group \(Bristol, UK, Oct 2023\): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election],[Stony Brook University, Institute for Advanced Computational Science \(Stony Brook, NY, Sept 2023\): Language-like efficiency and structure in house finch song],[Max Planck Institute for Geoanthropology, Cognitive Technologies Workshop \(Leipzig, DE, Apr 2023\): Collective decision-making, discovery dynamics, and the emergence of open-ended techological growth \(presentation of working paper by James Winters and Mathieu Charbonneau\)],[Max Planck Institute for Geoanthropology, Communicative Efficiency Workshop \(Leipzig, DE, Apr 2023\): Efficiency and complexity in house finch song],[Max Planck Institute for Evolutionary Anthropology, Department of Human Behavior, Ecology, and Culture \(Leipzig, DE, Apr 2023\): Status quo conservatism in coordination games: the role of negotiation costs and bargaining power],[Max Planck Institute for Empirical Aesthetics, Computational Auditory Perception Research Group \(Frankfurt, DE, Nov 2022\): Cultural evolutionary approaches to the study of contemporary music],[Institut Jean Nicod, Évolution & Cognition Sociale \(Paris, FR, Oct 2022\): Signals of random copying in the cultural evolution of cattle brands are boosted by time- and space-averaging],[Max Planck Institute for the Study of Human History, From Cultural Evolution to Computational Humanities: Building a Bridge Workshop \(Jena, DE, June 2022\): Cultural evolutionary approaches to the study of contemporary music],[Vrije Universiteit Amsterdam, Social Psychology Section \(Amsterdam, NL, June 2022\): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election],[University of Tennessee, Center for the Dynamics of Social Complexity \(Knoxville, TN, Apr 2022\): From psychology to phylogeny: bridging levels of analysis in cultural evolution],[Max Planck Institute for Evolutionary Anthropology, Department of Human Behavior, Ecology, and Culture \(Leipzig, DE, Apr 2022\): Distinctiveness, copying, and complexity in the cultural evolution of cattle brands],[Institut Jean Nicod, Évolution & Cognition Sociale \(Paris, FR, Feb 2022\): From psychology to phylogeny: bridging levels of analysis in cultural evolution],[Queens College, Biology Department Colloquium \(Flushing, NY, Oct 2021\): From psychology to phylogeny: bridging levels of analysis in cultural evolution],[Early Career Social Learning Researcher's Society \(Virtual Meeting, Oct 2021\): Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election],[Max Planck Institute for Evolutionary Anthropology, Theory in Cultural Evolution Lab \(Leipzig, DE, Sept 2021\): Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election],[Max Planck Institute for Evolutionary Anthropology, Department of Linguistic and Cultural Evolution \(Leipzig, DE, Sept 2021\): From psychology to phylogeny: bridging levels of analysis in cultural evolution],[University of Pennsylvania, Social and Cultural Evolution Working Group \(Philadelphia, PA, Sept 2021\): From psychology to phylogeny: bridging levels of analysis in cultural evolution],[International Council on Systems Engineering, Social Systems Working Group \(Virtual Meeting, May 2021\): Agent-based modeling and generative inference in cultural evolution],[Thinking About the Cultural Evolution of Thinking Workshop \(Düsseldorf, DE, Jan 2021\): Inferring cognitive phenomena from cultural evolutionary patterns],[Stony Brook University, Institute for Advanced Computational Science \(Stony Brook, NY, Jan 2021\): Bridging pattern and process in cultural evolution and social behavior],[The Graduate Center, CUNY, Cognition and Comparative Psychology Colloquium \(New York, NY, Sept 2018\): Pattern and process in cultural evolution],[Queens College, CUNY, Biology Symposium \(Flushing, NY, Jan 2018\): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution],)
@@ -1084,17 +1084,6 @@ Fall 2015 --  Spring 2016
 
     #v(-design-text-leading)
     #v(design-highlights-top-margin);#highlights([Cultural Evolution Society Conference \(Durham, UK, Sept 2024\): Language-like efficiency and structure in house finch song],[European Association of Archaeology Conference \(Rome IT, Aug 2024\): Statistical signals of copying are robust to time- and space-averaging],[Cultural Evolution Society Conference \(Aarhus, DK, Sept 2022\): Signals of random copying in the cultural evolution of cattle brands are robust to time- and space-averaging],[New America Foundation, Digging into the Data on Jan 6 \(Washington, DC, Dec 2021\): Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election],[Cultural Evolution Society Conference \(Virtual Meeting, June 2021\): Content bias in the cultural evolution of house finch song],[European Human Behaviour and Evolution Association \(Virtual Conference, Mar 2021\): Phylogenetic reconstruction of the cultural evolution of electronic music via dynamic community detection \(1975--1999\)],[Animal Behavior Society \(Virtual Conference, July 2020\): A Raspberry Pi-based, RFID-equipped birdfeeder for the remote monitoring of wild bird populations],[Cultural Evolution Society Conference \(Tempe, AZ, Oct 2018\): The cultural transmission of sampling traditions in a network of musical collaborators],[Cultural Evolution Society Conference \(Tempe, AZ, Oct 2018\): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution],[International Behavioral Ecology Congress \(Minneapolis, MN, Aug 2018\): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution],[Applications in Cultural Evolution Conference \(Tartu, EE, June 2018\): The cultural transmission of sampling traditions in a network of musical collaborators],[Applications in Cultural Evolution Conference \(Tartu, EE, June 2018\): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution],[Cultural Evolution Society Conference \(Jena, DE, Sept 2017\): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
-    #strong[Conference Posters]
-
-    #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([European Human Behaviour and Evolution Association \(Virtual Conference, Apr 2022\): Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election],[Animal Behavior Society \(Twitter Conference, Jan 2021\): Transmission bias in the cultural evolution of house finch song],[Psychology Research Day at the Graduate Center \(New York, NY, Mar 2019\): Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age],[SNAK Acoustic Communication Symposium \(Faaborg, DE, Aug 2017\): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution],[Queens College Biology Symposium \(Flushing, NY, Jan 2017\): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution],)
   ],
 )
 
@@ -1151,6 +1140,17 @@ Fall 2015 --  Spring 2016
 == Advising
 
 
+
+#one-col-entry(
+  content: [
+    #strong[PhD Students]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Alina Shabaeva \(2025-2026\): PhD in Linguistics, Stony Brook University --- Creativity and word order in online experiments],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
 
 #one-col-entry(
   content: [
@@ -1386,6 +1386,26 @@ Sept 2021 – Oct 2021
 
 
 
+== Programming Skills
+
+
+#one-col-entry(
+  content: [#strong[Languages:] R, Python, C++, Bash, Markdown]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Machine Learning & AI:] PyTorch, TensorFlow, Stan]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[High-Performance & Cloud Computing:] Slurm, AWS, Google Cloud Platform]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Web Technologies:] HTML\/CSS, WordPress, GitHub, APIs]
+)
+
+
 == Artistic Output
 
 
@@ -1395,7 +1415,7 @@ Sept 2021 – Oct 2021
     #strong[Installations]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Alaka’i 1777 \(2025\): an immersive sound installation that reconstructs the lost song culture of the Kaua’i ’ō’ō, an extinct Hawaiian bird, by weaving together archival recordings with interacting artificial agents. Debuted at the Reforesters Laboratory in Brooklyn in June 2025.],)
+    #v(design-highlights-top-margin);#highlights([Reforesters Laboratory, Spatial Audio Venue \(Brooklyn, NY, June 2025\): Alaka’i 1777],[TechnoMirage at Index Space, Community Art Space \(Manhattan, NY, Sept 2025\): Alaka’i 1777],)
   ],
 )
 
@@ -1459,25 +1479,5 @@ July 2024 – Aug 2024
   ],
 )
 
-
-
-== Programming Skills
-
-
-#one-col-entry(
-  content: [#strong[Languages:] R, Python, C++, Bash, Markdown]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Machine Learning & AI:] PyTorch, TensorFlow, Stan]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[High-Performance & Cloud Computing:] Slurm, AWS, Google Cloud Platform]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Web Technologies:] HTML\/CSS, WordPress, GitHub, APIs]
-)
 
 

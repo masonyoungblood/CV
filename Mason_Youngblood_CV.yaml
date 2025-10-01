@@ -114,6 +114,7 @@ cv:
         location:
         summary:
         highlights:
+          - 'Stony Brook University, AI and Creativity (Stony Brook, NY, Sept 2025): AI tools for creatives in music and audio'
           - 'Stony Brook University, Philosophy of Technology (Stony Brook, NY, Dec 2023): Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election'
           - 'Keio University, Evolution and Music (Tokyo, JP, Dec 2023): Cultural evolutionary approaches to the study of contemporary music'
           - 'Queens College, CUNY, Animal Behavior (Flushing, NY, May 2021): Cultural evolution'
@@ -371,7 +372,7 @@ cv:
         url: https://doi.org/10.1101/2020.10.12.336024
         date: '2020'
     presentations:
-      - name: Invited Talks
+      - name: Invited Talks (since 2023)
         date:
         start_date:
         end_date: 
@@ -435,18 +436,18 @@ cv:
           - 'Cultural Evolution Society Conference (Jena, DE, Sept 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution'
           #- 'South Carolina Junior Academy of Science Annual Meeting (Orangeburg, SC, Apr 2011): Characterization of gene function in the epithelium of female Drosophila melanogaster egg chambers by using in vivo RNA interference'
           #- 'South Carolina Governor''s School for Science and Math Annual Research Colloquium (Hartsville, SC, Feb 2011): Characterization of gene function in the epithelium of female Drosophila melanogaster egg chambers by using in vivo RNA interference'
-      - name: Conference Posters
-        date:
-        start_date:
-        end_date: 
-        location:
-        summary:
-        highlights:
-          - 'European Human Behaviour and Evolution Association (Virtual Conference, Apr 2022): Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election'
-          - 'Animal Behavior Society (Twitter Conference, Jan 2021): Transmission bias in the cultural evolution of house finch song'
-          - 'Psychology Research Day at the Graduate Center (New York, NY, Mar 2019): Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age'
-          - 'SNAK Acoustic Communication Symposium (Faaborg, DE, Aug 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution'
-          - 'Queens College Biology Symposium (Flushing, NY, Jan 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution'
+      #- name: Conference Posters
+      #  date:
+      #  start_date:
+      #  end_date: 
+      #  location:
+      #  summary:
+      #  highlights:
+      #    - 'European Human Behaviour and Evolution Association (Virtual Conference, Apr 2022): Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election'
+      #    - 'Animal Behavior Society (Twitter Conference, Jan 2021): Transmission bias in the cultural evolution of house finch song'
+      #    - 'Psychology Research Day at the Graduate Center (New York, NY, Mar 2019): Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age'
+      #    - 'SNAK Acoustic Communication Symposium (Faaborg, DE, Aug 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution'
+      #    - 'Queens College Biology Symposium (Flushing, NY, Jan 2017): A bibliometric analysis of interdisciplinary collaboration in the field of cultural evolution'
           #- 'UTEP Undergraduate Research Symposium (El Paso, TX, Aug 2013): The role of dopamine D2 receptor in brain development and ethanol-induced behavioral disinhibition'
     awards,_grants,_&_fellowships:
       - name: ''
@@ -490,6 +491,14 @@ cv:
           - '\*John Templeton Foundation (2016-2018, $89,000): Towards a new synthesis for cultural evolution'
           - 'Summer Research Training, Methods in the Neuroscience of Drug Abuse, University of Texas at El Paso (2013): The role of dopamine D2 receptor in brain development and ethanol-induced behavioral disinhibition'
     advising:
+      - name: PhD Students
+        date:
+        start_date:
+        end_date: 
+        location:
+        summary:
+        highlights:
+          - 'Alina Shabaeva (2025-2026): PhD in Linguistics, Stony Brook University --- Creativity and word order in online experiments'
       - name: Masters Students
         date:
         start_date:
@@ -643,6 +652,15 @@ cv:
         highlights:
           - 'Design firm specializing in sonic branding: [https://wearelisten.com](https://wearelisten.com)'
           - 'My focus: reviewing the scientific literature of the psychology of sound and music, to directly inform the sonic design of a luxury electric vehicle for Ford Motor Company'
+    programming_skills:
+      - label: Languages
+        details: R, Python, C++, Bash, Markdown
+      - label: Machine Learning & AI
+        details: PyTorch, TensorFlow, Stan
+      - label: High-Performance & Cloud Computing
+        details: Slurm, AWS, Google Cloud Platform
+      - label: Web Technologies
+        details: HTML/CSS, WordPress, GitHub, APIs
     artistic_output:
       - name: Installations
         date:
@@ -651,7 +669,9 @@ cv:
         location:
         summary:
         highlights:
-          - 'Alaka’i 1777 (2025): an immersive sound installation that reconstructs the lost song culture of the Kaua’i ’ō’ō, an extinct Hawaiian bird, by weaving together archival recordings with interacting artificial agents. Debuted at the Reforesters Laboratory in Brooklyn in June 2025.'
+          - 'Reforesters Laboratory, Spatial Audio Venue (Brooklyn, NY, June 2025): Alaka’i 1777'
+          - 'TechnoMirage at Index Space, Community Art Space (Manhattan, NY, Sept 2025): Alaka’i 1777'
+          #- 'Alaka'i 1777 is an immersive sound installation that uses machine learning to reconstruct the lost song culture of the Kaua’i ’ō’ō, an extinct Hawaiian bird, by weaving together archival recordings with interacting artificial agents.'
       - name: Workshops
         date:
         start_date:
@@ -684,15 +704,6 @@ cv:
         location: St. Andrews, UK
         summary: Storyteller, hosted by the University of St. Andrews
         highlights:
-    programming_skills:
-      - label: Languages
-        details: R, Python, C++, Bash, Markdown
-      - label: Machine Learning & AI
-        details: PyTorch, TensorFlow, Stan
-      - label: High-Performance & Cloud Computing
-        details: Slurm, AWS, Google Cloud Platform
-      - label: Web Technologies
-        details: HTML/CSS, WordPress, GitHub, APIs
 design:
   theme: classic
   page:
