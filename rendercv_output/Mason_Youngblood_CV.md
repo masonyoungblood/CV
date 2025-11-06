@@ -225,8 +225,10 @@
 
 # Presentations
 
-## Invited Talks (since 2023)
+## Invited Talks
 
+- Stony Brook University, Institute for Advanced Computational Science (Stony Brook, NY, Nov 2025): Dynamics of collective creativity in AI art competitions
+- Research on Animal Song in Culture, Arts, and Literature, Royal Conservatoire of Scotland (Virtual Meeting, Oct 2025): Complexity in birdsong---using science to illuminate its origins, and art to motivate its conservation
 - University of Tennessee, Center for the Dynamics of Social Complexity (Knoxville, TN, September 2025): Dynamics of collective creativity in AI art competitions
 - Santa Fe Institute, Building a Science of Cultural Evolution for the 21st Century (Santa Fe, NM, May 2025): Social learning biases---from theory to inference
 - Stony Brook University, Institute for Advanced Computational Science, Collective Creativity Workshop (Stony Brook, NY, Apr 2025): Creativity and innovation in cultural evolution
@@ -429,16 +431,19 @@
 - Web Technologies: HTML/CSS, WordPress, GitHub, APIs
 # Artistic Output
 
-## Installations
+## Alaka'i 1777 (Installation/Performance, 2025)
 
-- Reforesters Laboratory, Spatial Audio Venue (Brooklyn, NY, June 2025): Alaka’i 1777
-- TechnoMirage at Index Space, Community Art Space (Manhattan, NY, Sept 2025): Alaka’i 1777
+- Reforesters Laboratory, 24.2-channel audio (Brooklyn, June 21-22, 2025)
+- TechnoMirage, 8-channel audio (Manhattan, Sept 21, 2025)
+- NEW INC and the New Museum's Creative Science Dinner at the Prospect Park Boathouse, 8-channel audio (Brooklyn, Oct 14, 2025)
+- Something Fierce Festival at Flux Factory, 8-channel audio (Queens, Nov 22-23, 2025)
 
-## Workshops
+## Deep Listening for Nonhuman Perspective-Taking (Workshop, 2024)
 
-- The Bakery, Project Art Space (Brooklyn, NY, Apr 2025): Deep listening for nonhuman perspective-taking
-- Hex House, Community Art Space (Brooklyn, NY, Dec 2024): Deep listening for nonhuman perspective-taking
-- Diverse Intelligences Summer Institute (St. Andrews, UK, July 2024): Deep listening for nonhuman perspective-taking
+- University of St. Andrews (Scotland, July 10, 2024)
+- Hex House (Brooklyn, Dec 7, 2024)
+- The Bakery (Brooklyn, Mar 29, 2025)
+- Rutgers Art Network at Rutgers University (New Jersey, Oct 29, 2025)
 
 # Artist Residencies & Incubators
 
