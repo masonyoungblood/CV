@@ -227,6 +227,7 @@
 
 ## Invited Talks
 
+- Cornell University, K. Lisa Yang Center for Conservation Bioacoustics (Ithaca, NY, Nov 2025): Complexity in birdsong---using science to illuminate its origins, and art to motivate its conservation
 - Stony Brook University, Institute for Advanced Computational Science (Stony Brook, NY, Nov 2025): Dynamics of collective creativity in AI art competitions
 - Research on Animal Song in Culture, Arts, and Literature, Royal Conservatoire of Scotland (Virtual Meeting, Oct 2025): Complexity in birdsong---using science to illuminate its origins, and art to motivate its conservation
 - University of Tennessee, Center for the Dynamics of Social Complexity (Knoxville, TN, September 2025): Dynamics of collective creativity in AI art competitions
@@ -433,17 +434,19 @@
 
 ## Alaka'i 1777 (Installation/Performance, 2025)
 
-- Reforesters Laboratory, 24.2-channel audio (Brooklyn, June 21-22, 2025)
-- TechnoMirage, 8-channel audio (Manhattan, Sept 21, 2025)
-- NEW INC and the New Museum's Creative Science Dinner at the Prospect Park Boathouse, 8-channel audio (Brooklyn, Oct 14, 2025)
+- Reforesters Laboratory, 24.2-channel audio (Brooklyn, NY, June 21-22, 2025)
+- TechnoMirage, 8-channel audio (New York, NY, Sept 21, 2025)
+- ṆEW INC and the New Museum's Creative Science Dinner at the Prospect Park Boathouse, 8-channel audio (Brooklyn, NY, Oct 14, 2025)
+- 25 Saint James Place, 8-channel audio (New York, NY, Nov 20, 2025)
 - Something Fierce Festival at Flux Factory, 8-channel audio (Queens, Nov 22-23, 2025)
 
 ## Deep Listening for Nonhuman Perspective-Taking (Workshop, 2024)
 
-- University of St. Andrews (Scotland, July 10, 2024)
-- Hex House (Brooklyn, Dec 7, 2024)
-- The Bakery (Brooklyn, Mar 29, 2025)
-- Rutgers Art Network at Rutgers University (New Jersey, Oct 29, 2025)
+- University of St. Andrews (St. Andrews, Scotland, July 10, 2024)
+- Hex House (Brooklyn, NY, Dec 7, 2024)
+- The Bakery (Brooklyn, NY, Mar 29, 2025)
+- Rutgers Art Network at Rutgers University (New Brunswick, NJ, Oct 29, 2025)
+- 25 Saint James Place (New York, NY, Nov 20, 2025)
 
 # Artist Residencies & Incubators
 
